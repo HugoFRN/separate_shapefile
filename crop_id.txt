@@ -1,0 +1,177 @@
+0-ni v uporabi
+1-pšenica (jara)
+10-proso
+100-vinska trta
+101-krmna pesa
+102-krmna repa
+103-oljna repica
+104-krmna repica (jara)
+105-krmni ohrovt
+106-krmni radič
+107-krmno korenje
+108-podzemna koleraba
+109-krmni sirek
+11-mešanice žit (jara)
+110-grašica (jara)
+111-bela gorjušica
+112-krmna ogrščica (jara)
+113-oljna redkev
+114-druge rastline za krmo na njivah
+115-abesinska gizotija
+116-sudanska trava
+117-westerwoldska ljuljka
+118-mnogocvetna ljulka
+12-sončnice
+13-oljna buča
+14-oljna ogrščica (jara)
+17-krmni bob
+19-sladkorna  pesa
+2-rž (jara)
+20-krompir
+200-trave za pridelavo semena
+201-trave
+202-travna ruša (travni tepih)
+203-travnodeteljne mešanice
+204-nepokošen pas
+204-trajno travinje
+206-deteljnotravne mešanice
+207-detelja
+208-lucerna
+21-soržica (jara)
+210-volčji bob
+211-grahor
+219-facelija
+220-aleksandrijska detelja
+221-perzijska detelja
+222-inkarnatka
+223-navadna nokota
+24-sirek
+25-trda pšenica (jara)
+26-praha
+27-konoplja
+28-lan
+29-ukorenišče hmeljnih sadik
+3-pira (jara)
+30-soja
+31-vrtni mak (jari)
+32-bar
+33-krmni grah (jari)
+333-tehnično ali drugo sredstvo
+34-rjava indijska gorčica
+35-kamut (jari)
+36-riček
+37-amarant
+4-ajda
+40-lubenice
+402-zelenjadnice
+403-različna trajna zelišča
+404-njivska zelišča
+405-mešana raba (zelenjadnice, poljščine, dišavnice, zdravilna zelišča)
+409-mešane zelenjadnice pod 0,1 ha
+41-melone oziroma dinje
+42-navadna buča
+43-črni koren
+44-grah
+45-bob
+46-motovilec
+47-radič
+48-rukola
+49-sladka koruza
+5-koruza za zrnje
+505-trava 
+506-mešanica rastlin 
+555-brez zahtevka
+6-koruza za silažo
+611-jablana
+612-hruška
+613-kutina
+614-nashi
+615-granatno jabolko
+616-nešplja
+618-žižula
+619-feioja
+621-breskev
+622-nektarina
+623-sliva/češplja
+624-marelica
+625-češnja
+626-višnja
+627-japonska nešplja
+631-oreh
+632-leska
+633-mandelj
+642-kivi
+643-kaki
+644-kostanj
+646-bezeg
+647-smokva (figa)
+648-asimina
+649-rakitovec
+651-jagoda
+652-ameriška borovnica
+653-malina
+654-robida
+655-rdeči ribez
+656-črni ribez
+657-aronija
+658-murva
+659-goji jagoda
+660-črni ribez x kosmulja
+661-namizno grozdje
+662-robida x malina
+671-limonovec
+672-grenivka
+673-pomarančevec
+674-mandarinovec
+675-dren
+676-kosmulja
+677-skorš
+678-sibirska borovnica
+679-brusnica (evropska ali gozdna)
+680-šipek
+681-ameriška brusnica
+698-oreh in kostanj
+699-mešane sadne vrste
+7-tritikala (jara)
+702-drevesnice
+703-šparglji
+704-trsnice
+705-mešane trajne rastline pod 0,1 ha
+706-trta za drugo rabo, ki ni vino ali namizno grozdje
+707-matičnjak
+710-mešane rastline za rejo polžev
+720-hitro rastoči panjevec (vrba, topol)
+721-drugi hitro rastoči panjevci
+722-miskant
+723-tobakovec
+733-artičoka
+734-rabarbara
+735-okrasne rastline
+736-vrtnice
+737-sivka
+738-ameriški slamnik
+777-površina v odstopu
+8-oves (jari)
+800-oljka
+801-pšenica (ozimna)
+802-rž (ozimna)
+803-pira (ozimna)
+804-krmna repica (ozimna)
+807-tritikala (ozimna)
+808-oves (ozimni)
+809-ječmen (ozimni)
+810-grašica (ozimna)
+811-mešanice žit (ozimna)
+812-krmna ogrščica (ozimna)
+814-oljna ogrščica (ozimna)
+821-soržica (ozimna)
+825-trda pšenica (ozimna)
+831-vrtni mak (ozimni)
+833-krmni grah (ozimni)
+835-kamut (ozimni)
+888-Ni v uporabi KMG
+9-ječmen (jari)
+900-hmelj
+904-neozelenjen del
+998-Ruševje
+999-nedefinirana kmetijska rastlina

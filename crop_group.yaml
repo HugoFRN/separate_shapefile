@@ -1,0 +1,392 @@
+cereals:
+  - EMMER ODER EINKORN (SOMMERUNG)
+  - EMMER ODER EINKORN (SOMMERUNG) / FELDGEMÜSE
+  - EMMER ODER EINKORN (WINTERUNG)
+  - EMMER ODER EINKORN (WINTERUNG) / FELDGEMÜSE
+  - GRÜNSCHNITTROGGEN
+  - GRÜNSCHNITTROGGEN / HIRSE
+  - GRÜNSCHNITTROGGEN / MAIS
+  - GRÜNSCHNITTROGGEN / SUDANGRAS
+  - HIRSE
+  - SOMMERDINKEL (SPELZ)
+  - SOMMERGERSTE
+  - SOMMERGERSTE / BUCHWEIZEN
+  - SOMMERGERSTE / FELDGEMÜSE
+  - SOMMERHAFER
+  - SOMMERHAFER / FELDGEMÜSE
+  - SOMMERHARTWEIZEN (DURUM)
+  - SOMMERHARTWEIZEN (DURUM) / BUCHWEIZEN
+  - SOMMERHARTWEIZEN (DURUM) / FELDGEMÜSE
+  - SOMMERMENGGETREIDE
+  - SOMMERMENGGETREIDE / FELDGEMÜSE
+  - SOMMERROGGEN
+  - SOMMERTRITICALE
+  - SOMMERWEICHWEIZEN
+  - WINTERDINKEL (SPELZ)
+  - WINTERDINKEL (SPELZ) / FELDGEMÜSE
+  - WINTERGERSTE
+  - WINTERGERSTE / BUCHWEIZEN
+  - WINTERGERSTE / FELDGEMÜSE
+  - WINTERHAFER
+  - WINTERHARTWEIZEN (DURUM)
+  - WINTERHARTWEIZEN (DURUM) / BUCHWEIZEN
+  - WINTERHARTWEIZEN (DURUM) / FELDGEMÜSE
+  - WINTERMENGGETREIDE
+  - WINTERROGGEN
+  - WINTERROGGEN / FELDGEMÜSE
+  - WINTERTRITICALE
+  - WINTERTRITICALE / FELDGEMÜSE
+  - WINTERTRITICALE / HIRSE
+  - WINTERWEICHWEIZEN
+  - WINTERWEICHWEIZEN / BUCHWEIZEN
+  - WINTERWEICHWEIZEN / FELDGEMÜSE
+  - ječmen (jari)
+  - ječmen (ozimni)
+  - kamut (jari)
+  - kamut (ozimni)
+  - mešanice žit (jara)
+  - mešanice žit (ozimna)
+  - oves (jari)
+  - oves (ozimni)
+  - pira (jara)
+  - pira (ozimna)
+  - proso
+  - pšenica (jara)
+  - pšenica (ozimna)
+  - rž (jara)
+  - rž (ozimna)
+  - soržica (jara)
+  - soržica (ozimna)
+  - trda pšenica (jara)
+  - trda pšenica (ozimna)
+  - tritikala (jara)
+  - tritikala (ozimna)
+grass:
+  - ALMFUTTERFLÄCHE
+  - BERGMÄHDER
+  - DAUERWEIDE
+  - EINMÄHDIGE WIESE
+  - ENERGIEGRAS
+  - FUTTERGRÄSER
+  - FUTTERGRÄSER / FELDGEMÜSE
+  - HUTWEIDE
+  - KLEEGRAS
+  - KLEEGRAS / FELDGEMÜSE
+  - MÄHWIESE/-WEIDE DREI UND MEHR NUTZUNGEN
+  - MÄHWIESE/-WEIDE ZWEI NUTZUNGEN
+  - ROLLRASEN
+  - STREUWIESE
+  - deteljnotravne mešanice
+  - mnogocvetna ljulka
+  - trajno travinje
+  - trave
+  - trave za pridelavo semena
+  - travna ruša (travni tepih)
+  - travnodeteljne mešanice
+  - westerwoldska ljuljka
+legumes:
+  - ACKERBOHNEN (PUFFBOHNEN)
+  - ACKERBOHNEN (PUFFBOHNEN) / FELDGEMÜSE
+  - ACKERBOHNEN / ERBSENGEMENGE
+  - BITTERLUPINEN
+  - ESPARSETTE
+  - KICHERERBSEN
+  - KÖRNERERBSEN
+  - KÖRNERERBSEN / FELDGEMÜSE
+  - KLEE
+  - KLEE / FELDGEMÜSE
+  - LINSEN
+  - LUZERNE
+  - PELUSCHKE
+  - PHACELIA
+  - PLATTERBSEN
+  - SÜSSLUPINEN
+  - SOJABOHNEN
+  - SOMMERWICKEN
+  - WINTERWICKEN
+  - ZUCKERRÜBEN
+  - aleksandrijska detelja
+  - bob
+  - detelja
+  - facelija
+  - grah
+  - grahor
+  - grašica (jara)
+  - grašica (ozimna)
+  - inkarnatka
+  - krmni bob
+  - krmni grah (jari)
+  - krmni grah (ozimni)
+  - lucerna
+  - navadna nokota
+  - perzijska detelja
+  - soja
+  - volčji bob
+maize:
+  - GRÜNMAIS
+  - KÖRNERMAIS
+  - MAIS CORN-COB-MIX (CCM)
+  - MAIS CORN-COB-MIX (CCM) / FELDGEMÜSE
+  - SAATMAISVERMEHRUNG
+  - SILOMAIS
+  - ZUCKERMAIS
+  - ZUCKERMAIS / FELDGEMÜSE
+  - koruza za silažo
+  - koruza za zrnje
+  - sladka koruza
+mixed_plants:
+  - ACKERBOHNEN - GETREIDE GEMENGE
+  - ANDERE DAUERKULTUREN
+  - BLUMEN UND ZIERPFLANZEN
+  - EINJÄHRIGE BAUMSCHULEN
+  - ELEFANTENGRAS (CHINASCHILF, MISCANTHUS SINENSIS)
+  - ERBSEN - GETREIDE GEMENGE
+  - ERBSEN - GETREIDE GEMENGE / BUCHWEIZEN
+  - ERBSEN - GETREIDE GEMENGE / FELDGEMÜSE
+  - FUTTERRÜBEN (RUNKELRÜBEN, BURGUND KOHLRÜBEN)
+  - GRÜNBRACHE
+  - GRÜNLANDBRACHE
+  - MAIS / KÄFERBOHNEN IN GETRENNTEN REIHEN
+  - MEHRJÄHRIGE BAUMSCHULEN
+  - OBST/HOPFEN BODENGESUNDUNG
+  - SONSTIGE ACKERKULTUREN
+  - SONSTIGE GRÜNLANDFLÄCHEN
+  - SONSTIGE SPEZIALKULTURFLÄCHEN
+  - SONSTIGES FELDFUTTER
+  - WECHSELWIESE (EGART, ACKERWEIDE)
+  - WEIN BODENGESUNDUNG
+  - WICKEN - GETREIDE GEMENGE
+  - WINTERTRITICALE / FUTTERRÜBE
+orchards:
+  - ANDERES OBST
+  - EDELKASTANIEN
+  - GINKGO
+  - KIRSCHEN
+  - MARILLEN
+  - NEKTARINEN
+  - PFIRSICHE
+  - PFLAUMEN
+  - QUITTEN
+  - SCHALENFRÜCHTE (WALNÜSSE, HASELNÜSSE, ...)
+  - STRAUCHBEEREN
+  - TAFELÄPFEL
+  - TAFELBIRNEN
+  - WEICHSELN
+  - ZWETSCHKEN
+  - ameriška borovnica
+  - ameriška brusnica
+  - aronija
+  - asimina
+  - breskev
+  - brusnica (evropska ali gozdna)
+  - češnja
+  - črni ribez
+  - črni ribez x kosmulja
+  - feioja
+  - goji jagoda
+  - granatno jabolko
+  - grenivka
+  - hruška
+  - jablana
+  - japonska nešplja
+  - kaki
+  - kivi
+  - kosmulja
+  - kostanj
+  - kutina
+  - limonovec
+  - malina
+  - mandarinovec
+  - mandelj
+  - marelica
+  - mešane sadne vrste
+  - murva
+  - nashi
+  - nektarina
+  - nešplja
+  - oljka
+  - oreh
+  - oreh in kostanj
+  - pomarančevec
+  - rdeči ribez
+  - robida
+  - robida x malina
+  - sibirska borovnica
+  - sliva/češplja
+  - smokva (figa)
+  - višnja
+  - žižula
+other_plants:
+  - HANF
+  - HEILPFLANZEN
+  - HOPFEN
+  - ÖLKÜRBIS
+  - JOHANNISKRAUT
+  - LEINDOTTER
+  - MARIENDISTELN
+  - RÜBENVERMEHRUNG
+  - SENF
+  - SOMMERKÜMMEL
+  - SOMMERMOHN
+  - SOMMERRAPS
+  - SONNENBLUMEN
+  - SONSTIGE ÖLFRÜCHTE (SAFLOR, ...)
+  - SORGHUM
+  - SPEISEKÜRBIS
+  - SUDANGRAS
+  - TOPINAMBUR
+  - WINTERKÜMMEL
+  - WINTERMOHN
+  - WINTERRÜBSEN
+  - WINTERRAPS
+  - abesinska gizotija
+  - ameriški slamnik
+  - bar
+  - bela gorjušica
+  - drevesnice
+  - druge rastline za krmo na njivah
+  - hmelj
+  - konoplja
+  - krmna ogrščica (jara)
+  - krmna ogrščica (ozimna)
+  - krmna pesa
+  - krmna repa
+  - krmna repica (jara)
+  - krmna repica (ozimna)
+  - krmni sirek
+  - lubenice
+  - melone oziroma dinje
+  - mešane rastline za rejo polžev
+  - mešane trajne rastline pod 0,1 ha
+  - mešane zelenjadnice pod 0,1 ha
+  - mešanica rastlin - naknadni posevek
+  - miskant
+  - motovilec
+  - navadna buča
+  - njivska zelišča
+  - okrasne rastline
+  - oljna buča
+  - oljna ogrščica (jara)
+  - oljna ogrščica (ozimna)
+  - oljna redkev
+  - oljna repica
+  - podzemna koleraba
+  - rakitovec
+  - riček
+  - rjava indijska gorčica
+  - sirek
+  - sivka
+  - skorš
+  - sladkorna  pesa
+  - sončnice
+  - sudanska trava
+  - šipek
+  - tobakovec
+  - trava - podsevek
+  - trsnice
+  - ukorenišče hmeljnih sadik
+  - vrtni mak (jari)
+  - vrtni mak (ozimni)
+  - vrtnice
+potato:
+  - FRÜHKARTOFFELN
+  - FRÜHKARTOFFELN / BUCHWEIZEN
+  - FRÜHKARTOFFELN / FELDGEMÜSE
+  - FRÜHKARTOFFELN / MAIS
+  - FUTTERKARTOFFELN
+  - SAATKARTOFFELN
+  - SPEISEINDUSTRIEKARTOFFELN
+  - SPEISEKARTOFFELN
+  - SPEISEKARTOFFELN / FELDGEMÜSE
+  - STÄRKEINDUSTRIEKARTOFFELN
+  - krompir
+production_under_protection:
+  - BLUMEN UND ZIERPFLANZEN IM FOLIENTUNNEL
+  - BLUMEN UND ZIERPFLANZEN IM GEWÄCHSHAUS
+  - GEMÜSE IM FOLIENTUNNEL
+  - GEMÜSE IM GEWÄCHSHAUS
+  - GEWÜRZPFLANZEN IM FOLIENTUNNEL
+  - GEWÜRZPFLANZEN IM GEWÄCHSHAUS
+  - OBST IM FOLIENTUNNEL
+  - OBST IM GEWÄCHSHAUS
+  - 'SONSTIGE FLÄCHEN: GESCHÜTZTER ANBAU'
+  - SONSTIGE KULTUREN IM FOLIENTUNNEL
+  - SONSTIGE KULTUREN IM GEWÄCHSHAUS
+pseudo_cereals:
+  - AMARANTH
+  - BUCHWEIZEN
+  - FLACHS (FASERLEIN) ZUR FASERERZEUGUNG
+  - ÖLLEIN (NICHT ZUR FASERGEWINNUNG)
+  - ÖLLEIN (NICHT ZUR FASERGEWINNUNG) / FELDGEMÜSE
+  - QUINOA
+  - ajda
+  - amarant
+  - lan
+trees:
+  - ENERGIEHOLZ OHNE ROBINIE
+  - ENERGIEHOLZ ROBINIE
+  - ERSTAUFFORSTUNG
+  - ERSTAUFFORSTUNG ALT
+  - FORST GENETISCHE RESSOURCEN
+  - HOLUNDER
+  - LSE FELDGEHÖLZ / BAUM- / GEBÜSCHGRUPPE
+  - LSE HECKE / UFERGEHÖLZ
+  - bezeg
+  - dren
+  - drugi hitro rastoči panjevci
+  - hitro rastoči panjevec (vrba, topol)
+  - leska
+  - Ruševje
+unclassified:
+  - brez zahtevka
+  - nedefinirana kmetijska rastlina
+  - neozelenjen del
+  - nepokošen pas
+  - ni v uporabi
+  - Ni v uporabi KMG
+  - površina v odstopu
+  - praha
+  - tehnično ali drugo sredstvo
+  - 20 JÄHRIGE STILLLEGUNG
+  - GLÖZ GRABEN / UFERRANDSTREIFEN
+  - GLÖZ NATURDENKMAL FLÄCHE
+  - GLÖZ STEINRIEGEL / STEINHAGE
+  - GLÖZ TEICH / TÜMPEL
+  - LSE RAIN / BÖSCHUNG / TROCKENSTEINMAUER
+  - SONSTIGE ACKERFLÄCHEN
+  - WALDUMWELTMASSNAHMEN
+vegetable:
+  - ERDBEEREN
+  - ERDBEEREN / FELDGEMÜSE
+  - FELDGEMÜSE EINKULTURIG
+  - FELDGEMÜSE EINLEGEGURKEN
+  - FELDGEMÜSE FRISCHMARKT UND VERARBEITUNG MEHRKULTURIG
+  - FELDGEMÜSE MEHRKULTURIG
+  - FELDGEMÜSE OHNE ERNTE
+  - FELDGEMÜSE VERARBEITUNG EINKULTURIG
+  - FELDGEMÜSE VERARBEITUNG MEHRKULTURIG
+  - GEWÜRZFENCHEL
+  - GEWÜRZPFLANZEN
+  - ÖLRETTICH
+  - artičoka
+  - črni koren
+  - jagoda
+  - krmni ohrovt
+  - krmni radič
+  - krmno korenje
+  - mešana raba (zelenjadnice, poljščine, dišavnice, zdravilna zelišča)
+  - rabarbara
+  - radič
+  - različna trajna zelišča
+  - rukola
+  - šparglji
+  - zelenjadnice
+vineyard:
+  - REBSCHULEN
+  - SCHNITTWEINGARTEN
+  - SONSTIGE WEINFLÄCHEN
+  - WEIN
+  - matičnjak
+  - namizno grozdje
+  - trta za drugo rabo, ki ni vino ali namizno grozdje
+  - vinska trta
