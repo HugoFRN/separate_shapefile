@@ -1,6 +1,6 @@
 ## separate_shapefile
 
-Script used to separate the LPIS shapefile into shapfile of the same crop type for the Perceptive Sentinel project. 
+Script used to separate a LPIS shapefile into shapefiles of the same crop types for the Perceptive Sentinel project. 
 
 ### Requirements:
 
@@ -16,13 +16,13 @@ Print the help.
 
 The script accept differents arguments:
     
-    -a attribute : Name of the attribute to look for in the shapefile (SIFRA_KMRS or SNAR_BEZEI per example)
-    -f crop_id_file : (OPTIONAL) Path to the txt file containing the crops id (ie translate to id in the shapefile into the corresponding name)
-    -cg crop_group_file : (OPTIONAL) Path to the yaml file containing the differents crops groups. If not given, will separate every crop found
+    -a attribute : Name of the attribute to look for in the shapefile (SIFRA_KMRS or SNAR_BEZEI for example)
+    -f crop_id_file : (OPTIONAL) Path to the txt file containing the crops id (ie: translate the id in the shapefile into the corresponding name)
+    -cg crop_group_file : (OPTIONAL) Path to the yaml file defining the differents crops groups. If not given, will separate every crop found
     -o output_dir : Path to the output directory (default to ./)
     input_file: Path to input shapefile
     
-####Example:
+#### Example:
 
 The command used for the Austrian shapefile:
 
